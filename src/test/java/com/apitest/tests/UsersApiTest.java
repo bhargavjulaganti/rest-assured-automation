@@ -28,10 +28,10 @@ public class UsersApiTest extends BaseTest {
         System.out.println("Base URL is ***************: " + BASE_URL);
         // Test getting all users
         List<User> users = given()
-            .baseUri("https://jsonplaceholder.typicode.com")
+            .baseUri(BASE_URL)
             .contentType(ContentType.JSON)
         .when()
-            .get("/users")
+            .get(USERS_ENDPOINT)
         .then()
             .statusCode(200)
             .contentType(ContentType.JSON)
