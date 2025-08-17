@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "username": "johndoe",
+    "email": "john.doe@example.com",
+    "phone": "1-770-736-8031",
+    "website": "johndoe.org"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "username": "janesmith",
+    "email": "jane.smith@example.com",
+    "phone": "1-463-123-4447",
+    "website": "janesmith.org"
+  },
+  {
+    "id": 3,
+    "name": "Bob Johnson",
+    "username": "bobjohnson",
+    "email": "bob.johnson@example.com",
+    "phone": "1-555-987-6543",
+    "website": "bobjohnson.biz"
+  }
+]

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-17T16:21:42 EDT" name="API Test Suite" finished-at="2025-08-17T16:21:43 EDT" duration-ms="817">
+    <groups>
+    </groups>
+    <test started-at="2025-08-17T16:21:42 EDT" name="REST API Tests" finished-at="2025-08-17T16:21:43 EDT" duration-ms="817">
+      <class name="com.apitest.tests.UsersApiTest">
+        <test-method is-config="true" signature="setupSuite()[pri:0, instance:com.apitest.tests.UsersApiTest@6090f3ca]" started-at="2025-08-17T16:21:42 EDT" name="setupSuite" finished-at="2025-08-17T16:21:42 EDT" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method is-config="true" signature="setupTest()[pri:0, instance:com.apitest.tests.UsersApiTest@6090f3ca]" started-at="2025-08-17T16:21:42 EDT" name="setupTest" finished-at="2025-08-17T16:21:42 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method signature="testGetAllUsers()[pri:0, instance:com.apitest.tests.UsersApiTest@6090f3ca]" started-at="2025-08-17T16:21:42 EDT" name="testGetAllUsers" finished-at="2025-08-17T16:21:43 EDT" duration-ms="785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAllUsers -->
+      </class> <!-- com.apitest.tests.UsersApiTest -->
+    </test> <!-- REST API Tests -->
+  </suite> <!-- API Test Suite -->
+</testng-results>

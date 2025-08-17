@@ -1,0 +1,7 @@
+com/apitest/tests/BaseTest.class
+com/apitest/config/TestConfig.class
+com/apitest/tests/UsersApiTest.class
+com/apitest/utils/RestAssuredClient.class
+com/apitest/models/User.class
+com/apitest/utils/TestDataGenerator.class
+com/apitest/utils/AllureReportHelper.class
